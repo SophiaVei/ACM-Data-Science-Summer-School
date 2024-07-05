@@ -16,7 +16,7 @@ Via docker-compose:
 
 `docker compose up`, in this directory.
 
-Or via single docker command:
+Or via a single docker command:
 
 ```docker
 docker run -p 8000:8000 \
@@ -25,4 +25,4 @@ docker run -p 8000:8000 \
            --rm kuzudb/explorer:latest
 ```
 
-In both cases you must correctly specify the path to the files of the local     database.
+In both cases, you must correctly specify the path to the files of the local     database.
