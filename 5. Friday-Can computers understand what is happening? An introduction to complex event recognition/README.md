@@ -2,4 +2,4 @@
 
 ## Requirements
 
-This course does not have any setup requirements but it is suggested to skim through the slides (in the slides folder).
+This course does not have any setup requirements but it is suggested to skim through the slides (in the `/slides` folder).
